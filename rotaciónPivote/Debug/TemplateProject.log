@@ -1,0 +1,9 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(37,1): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(47,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(49,30): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(51,52): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(51,39): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\main.cpp(51,26): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  TemplateProject.vcxproj -> C:\Users\eduar\Documents\GLSL_Lighting2\GLSL_Lighting2\Debug\TemplateProject.exe
